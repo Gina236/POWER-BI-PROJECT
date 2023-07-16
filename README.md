@@ -1,0 +1,1 @@
+In this project, i analyzed the data of a retail company to provide valuable insights and recommendations on how the company can improve its performance and make data-driven decisions. The analysis covers various aspects of the company's operations, including sales, customer behavior, product performance, and more.
